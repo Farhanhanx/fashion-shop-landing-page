@@ -2,10 +2,6 @@
 
 Landing page fashion yang colorful, responsif, dan modern, dibangun dengan React, Vite, TypeScript, Tailwind CSS, dan Framer Motion. Proyek ini dirancang sebagai tampilan portofolio yang siap dipublikasikan untuk brand fashion digital dengan gradien cerah, animasi halus, dan layout mobile-first yang rapi.
 
-## Tampilan
-
-Tambahkan screenshot proyek di bagian ini sebelum dipublikasikan.
-
 ## Fitur
 
 - Layout responsif untuk mobile, tablet, dan desktop
